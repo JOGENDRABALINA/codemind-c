@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 #include <math.h>
 int main() 
@@ -17,34 +15,3 @@ int main()
 	res=n-p2p<=n2p-n ? n-p2p:n2p-n;
 	printf("%d",res);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
