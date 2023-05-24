@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int n;
@@ -34,4 +33,5 @@ int main()
     {
         printf("%.2f",(float)sum/cnt);
     }
-}   
+}    
+
